@@ -1,0 +1,5 @@
+{
+  "name": "Kalkulator Luas Tanah",
+  "description": "Aplikasi web untuk menghitung luas tanah berbentuk segiempat tidak beraturan dengan memasukkan panjang keempat sisinya dan satu garis diagonal.",
+  "requestFramePermissions": []
+}
